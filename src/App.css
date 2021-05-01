@@ -1,0 +1,11 @@
+.Main-text {
+  text-align: center;
+}
+.app-wraper{
+  background-color: rgb(255, 255, 255);
+  width: 1024px;
+  margin: auto;
+}
+.app-wraper-content{
+  background-color: rgb(255, 255, 255);
+}

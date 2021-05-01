@@ -1,0 +1,8 @@
+.header{
+  grid-area: h;
+  background-color: #274b69;
+  color: white;
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+  height: 60px;
+}

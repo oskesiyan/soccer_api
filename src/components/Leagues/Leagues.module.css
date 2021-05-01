@@ -1,0 +1,60 @@
+.appContent{
+    margin: 0;
+    margin-top: 10px;
+}
+
+.select {
+    display: block; 
+    font-size: 16px; 
+    font-family: sans-serif; 
+    font-weight: 700; 
+    color: #444; 
+    line-height: 1.3; 
+    padding: .6em 1.4em .5em .8em; 
+    width: 100%; 
+    max-width: 30%; 
+    box-sizing: border-box; 
+    margin:0;
+    border: 1px solid #aaa;
+    box-shadow: 0 1px 0 1px rgba(0,0,0,.04); 
+    border-radius: .5em;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: #fff; 
+    background-repeat: no-repeat, repeat;
+    background-position: right .7em top 50%, 0 0;
+    background-size: .65em auto, 100%;
+}
+
+.textcolsRow {   
+    /* column-count:0; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 80px 150px;
+    justify-content: space-between;
+
+}
+
+.textcolsItem {
+    height: 60px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #444;
+    
+}
+
+.textLink{
+     text-decoration: none;
+     color: black;
+     height: 60px;
+}
+
+
+
+
+
+
+
+
